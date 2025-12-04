@@ -40,13 +40,12 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+![WhatsApp Image 2025-12-04 at 11 24 23_b937d0ae](https://github.com/user-attachments/assets/d267ca86-84ee-471b-8d92-983b26cdacd5)
 
 
 ## MODEL GRAPH
-<img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
+![WhatsApp Image 2025-12-04 at 11 24 36_51cddaa4](https://github.com/user-attachments/assets/36982649-b025-4282-a9e1-cf78611b22a3)
 
----
 
 ## DESIGN
 
@@ -75,26 +74,12 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
+![WhatsApp Image 2025-12-04 at 11 27 43_d6529c9f](https://github.com/user-attachments/assets/6763ea5e-2b8e-461f-894d-a467b86fdfb1)
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 11 25 04_f8d6e5c5](https://github.com/user-attachments/assets/e2144b91-c8db-45d1-b04d-67f201bf7df5)
 
 ---
 
@@ -122,14 +107,13 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
+![WhatsApp Image 2025-12-04 at 11 25 26_0c04a691](https://github.com/user-attachments/assets/7b8b6c89-7597-4b5b-aef0-37f6d96bc99c)
+
 
 
 ## MODEL GRAPH
+![WhatsApp Image 2025-12-04 at 11 25 34_d66e8f8a](https://github.com/user-attachments/assets/b4991030-af42-4055-a79e-93acce1dd959)
 
-<img width="1005" height="382" alt="image" src="https://github.com/user-attachments/assets/22925efc-4abc-4fad-90d5-94f3348c3c0b" />
-
----
 
 ## DESIGN
 
@@ -159,25 +143,12 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+		![WhatsApp Image 2025-12-04 at 11 29 43_8c33e378](https://github.com/user-attachments/assets/db5394c9-1fe3-46d2-8cff-bd62ce816b99)
 
----
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 11 25 59_b12b3744](https://github.com/user-attachments/assets/c16b199e-352a-4c9c-9f23-6deadfcf0a56)
 
 ---
 
@@ -204,12 +175,11 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-12-04 at 11 31 15_aa44f4e9](https://github.com/user-attachments/assets/58137c86-41dc-4f14-9c9d-9651f16a0a6d)
 
-<img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
 
 ## MODEL GRAPH
-
-<img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
+![WhatsApp Image 2025-12-04 at 11 31 23_13c9ed4a](https://github.com/user-attachments/assets/a6da05bf-0c70-40a5-a069-7438b7aafbee)
 
 
 ---
@@ -244,25 +214,13 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+		![WhatsApp Image 2025-12-04 at 11 31 55_be3f7720](https://github.com/user-attachments/assets/cc7a28eb-1259-4736-a5d9-aed537230687)
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 11 33 06_78e8a253](https://github.com/user-attachments/assets/b2f1d7b7-491e-42bf-b014-b0c0e3766b61)
 
 ---
 ##RESULT:
